@@ -11,7 +11,6 @@ class Homepage extends Component {
       <div class="App-header">
       <h1 class="App-title"> SLUTMANAGEMENT.COM </h1>
       <div>
-      <Sweatshirts />
       </div>
       <div>
       <h3 class="App-subtitle">heyslut@slutmanagement.com</h3>
